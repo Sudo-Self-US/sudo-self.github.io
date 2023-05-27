@@ -1,13 +1,6 @@
 # Jekyll Theme Built for Developers
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)
 ![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/actions/workflows/deploy.yml/badge.svg)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)
-![](https://ruby-gem-downloads-badge.herokuapp.com/devlopr?type=total&color=brightgreen&style=plastic)
-[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
-[![Bakers](https://opencollective.com/devlopr-jekyll/tiers/badge.svg)](https://opencollective.com/devlopr-jekyll/)
-[![Deploy Site](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/deploy.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/deploy.yml)
-## <img width="1428" alt="Screenshot 2023-05-25 at 8 48 00 PM" src="https://github.com/sudo-self/sudo-self.github.io/assets/119916323/fb45f3d8-8cf6-42e3-854e-481e9b10a428">
-
 ### Launch your Static Site using Devlopr in minutes :rocket:
 
 To get started follow this [Tutorial](https://devlopr.netlify.app/get-started)
