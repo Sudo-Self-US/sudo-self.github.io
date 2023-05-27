@@ -1,5 +1,4 @@
 # Jekyll Theme Built for Developers
-<a href="https://wakatime.com/@5b912d3e-381a-4eaa-a874-484ed3768617"><img src="https://wakatime.com/badge/user/5b912d3e-381a-4eaa-a874-484ed3768617.svg" alt="Total time coded since May 25 2023" /></a>
 [![Gem Version](https://badge.fury.io/rb/devlopr.svg)](https://badge.fury.io/rb/devlopr)
 ![workflow-badge](https://github.com/sujaykundu777/devlopr-jekyll/actions/workflows/deploy.yml/badge.svg)
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4232ac2b-63e0-4c78-92e0-e95aad5ab8c3/deploy-status)](https://app.netlify.com/sites/devlopr/deploys)
