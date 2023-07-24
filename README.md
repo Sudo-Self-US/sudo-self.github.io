@@ -1,5 +1,4 @@
-# Jekyll Theme Serial Programmer
- 'A Jekyll theme for serial programmers (-.-)'
+# Jekyll Serial Programmer:  A Jekyll theme for serial programmers (-.-)
 
 ## How to install
 
