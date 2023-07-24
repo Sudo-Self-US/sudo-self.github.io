@@ -1,6 +1,6 @@
 #  A Jekyll theme for serial programmers (-.-)
 
-## How to install
+## [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
 
 1. Download or clone the repo
    `git clone https://github.com/sudo-self/sudo-self.github.io'
