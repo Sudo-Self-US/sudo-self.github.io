@@ -1,6 +1,6 @@
 # Jekyll Theme Serial Programmer
-> A Jekyll theme for serial programmers (-.-)
-> 
+ 'A Jekyll theme for serial programmers (-.-)'
+
 ## How to install
 
 1. Download or clone the repo
