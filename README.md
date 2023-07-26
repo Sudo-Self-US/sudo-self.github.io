@@ -1,6 +1,5 @@
 #  A Jekyll theme for serial programmers (-.-) [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Sudo-Self-US/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Sudo-Self-US/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml)
-## [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)
-
+## [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2Fvercel%2Fnext.js%2Ftree%2Fcanary%2Fexamples%2Fhello-world)[![Deploy Jekyll site to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/jekyll.yml)
 1. Download or clone the repo
    `git clone https://github.com/sudo-self/sudo-self.github.io'
 2. Enter the folder
