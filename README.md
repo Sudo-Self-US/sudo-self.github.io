@@ -1,6 +1,9 @@
-#  A Jekyll theme for serial programmers (-.-) [![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/Sudo-Self-US/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg)](https://github.com/Sudo-Self-US/sudo-self.github.io/actions/workflows/jekyll-gh-pages.yml)(https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment) 
+# Jekyll Theme Page
+
+First Cone the repo
 
 `git clone https://github.com/sudo-self/sudo-self.github.io'
+
 2. Enter the folder
    `cd /sudo-self.github.io`
 3. Run
