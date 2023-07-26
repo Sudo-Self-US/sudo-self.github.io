@@ -5,7 +5,7 @@
 
 1. First Clone the repo
 
-`git clone https://github.com/sudo-self/sudo-self.github.io'
+git clone https://github.com/sudo-self/sudo-self.github.io
 
 2. Enter the folder
    `cd /sudo-self.github.io`
