@@ -1,12 +1,9 @@
 ---
 layout: post
-
+title: Jekyll Markdown
+date: 2021-11-04
+categories: ["jekyll", "Test Post", "first post"]
 ---
-<blockquote>
-<p><code class="language-plaintext highlighter-rouge" style="color:#05f731">JEDIs</code><p>First Solve Problems. Then Write Code.</p>
-</blockquote>
-<br>
-
 
 Text can be **bold**, _italic_, ~~strikethrough~~ or `keyword`
 
@@ -119,7 +116,5 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 ```
 
 ```
-The ability to speak is not a signal og intelligence -yoda
+The final element.
 ```
-
-
