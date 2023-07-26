@@ -1,4 +1,6 @@
-# Jekyll Theme Page [![pages-build-deployment](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment) [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)First Cone the repo
+# Jekyll Theme Page [![pages-build-deployment](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment) [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)<br>
+
+## First Clone the repo
 
 `git clone https://github.com/sudo-self/sudo-self.github.io'
 
