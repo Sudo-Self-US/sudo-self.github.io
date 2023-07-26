@@ -1,4 +1,4 @@
-# Jekyll Theme Page [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)
+# Jekyll Theme Page 
 
 
 First Cone the repo
@@ -16,11 +16,8 @@ First Cone the repo
 6. Change the `_config.yml` & `_data/author.yml` files to meet your project needs.
 7. Upload the files on your repository and :sunglasses: enjoy.
 
+<img width="783" alt="Screenshot 2023-07-26 at 1 04 17 PM" src="https://github.com/sudo-self/sudo-self.github.io/assets/119916323/4710456c-fd75-476f-92b2-ab8e893b7796">
+
 > NOTE TO MATCH YOUR GITHUB PAGES REPO LIKE THIS EXAMPLE
 >  You have to remove `url` and `baseurl` from `_config.yml` to use this theme for `<your-username>.github.io`
 
-### Alert!
-
-* Don't touch `categories.js` inside `assets/js` folder unless you know what you're doing, it is used for generating links for the particular category pill in the template and is easy to render unwanted java changes in other areas of the page.
-  
-<img width="1440" alt="Screenshot 2023-07-23 at 7 43 37 PM" src="https://github.com/sudo-self/sudo-self.github.io/assets/119916323/0c9b8e83-3690-427e-bf77-33481e45b5e7">
