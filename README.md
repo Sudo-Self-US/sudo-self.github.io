@@ -1,4 +1,5 @@
-# Jekyll Theme Page 
+# Jekyll Theme Page [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)
+
 
 First Cone the repo
 
