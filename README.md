@@ -1,6 +1,7 @@
-# Jekyll the Jedi:[![pages-build-deployment](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment) [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)
+# Jekyll the Jedi  [https://sudo-self.github.io)
+## [![pages-build-deployment](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/pages/pages-build-deployment) [![Deploy static content to Pages](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml/badge.svg)](https://github.com/sudo-self/sudo-self.github.io/actions/workflows/static.yml)
 
-## (https://sudo-self.github.io)
+
 
 1. First Clone the repo
 
