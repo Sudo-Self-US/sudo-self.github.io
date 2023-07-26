@@ -19,7 +19,6 @@
    
 7. Upload the files on your repository and :sunglasses: enjoy.
 
-> NOTE TO MATCH YOUR GITHUB PAGES REPO LIKE THIS EXAMPLE
-> You have to remove `url` and `baseurl` from `_config.yml` to use this theme for `<your-username>.github.io`
+** NOTE match your gihub repo like this example You have to remove `url` and `baseurl` from `_config.yml` 
 
 <img width="783" alt="Screenshot 2023-07-26 at 1 04 17 PM" src="https://github.com/sudo-self/sudo-self.github.io/assets/119916323/d68ab0e3-c4a9-41ea-bc85-068c99a39285">
